@@ -1,0 +1,16 @@
+C:\dev\blackjack\bin\Debug\net8.0-windows\blackjack.exe
+C:\dev\blackjack\bin\Debug\net8.0-windows\blackjack.deps.json
+C:\dev\blackjack\bin\Debug\net8.0-windows\blackjack.runtimeconfig.json
+C:\dev\blackjack\bin\Debug\net8.0-windows\blackjack.dll
+C:\dev\blackjack\bin\Debug\net8.0-windows\blackjack.pdb
+C:\dev\blackjack\obj\Debug\net8.0-windows\blackjack.Form1.resources
+C:\dev\blackjack\obj\Debug\net8.0-windows\blackjack.csproj.GenerateResource.cache
+C:\dev\blackjack\obj\Debug\net8.0-windows\blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\blackjack\obj\Debug\net8.0-windows\blackjack.AssemblyInfoInputs.cache
+C:\dev\blackjack\obj\Debug\net8.0-windows\blackjack.AssemblyInfo.cs
+C:\dev\blackjack\obj\Debug\net8.0-windows\blackjack.csproj.CoreCompileInputs.cache
+C:\dev\blackjack\obj\Debug\net8.0-windows\blackjack.dll
+C:\dev\blackjack\obj\Debug\net8.0-windows\refint\blackjack.dll
+C:\dev\blackjack\obj\Debug\net8.0-windows\blackjack.pdb
+C:\dev\blackjack\obj\Debug\net8.0-windows\blackjack.genruntimeconfig.cache
+C:\dev\blackjack\obj\Debug\net8.0-windows\ref\blackjack.dll
